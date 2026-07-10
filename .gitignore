@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+outputs/tables/*.csv
+outputs/figures/*.png
+!outputs/tables/.gitkeep
+!outputs/figures/.gitkeep
